@@ -1,3 +1,4 @@
+#Codigo de Criação de Arvore Binaria e Travessias Pre_order, in_order, post_order
 class Node:
     def __init__(self,data):
         self.data = data
